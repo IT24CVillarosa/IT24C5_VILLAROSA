@@ -1,5 +1,5 @@
 body{
-    background-image: url("photos/caption-the-mandalorian-star-wars-4k-artwork-gtcv5oqu84sf2wvw.jpg");
+    background-image: url("https://imgs.search.brave.com/vLz4Mp5N-T0iyjpRpiZPc8pqGPe-WHzvj9bmktIbOF0/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly93YWxs/cGFwZXJjYXZlLmNv/bS93cC93cDIxNTMz/ODIuanBn");
     background-repeat: no-repeat;
     background-size: cover;
 }
@@ -10,7 +10,7 @@ h1{
     font-size: 100px;
 }.header {
     overflow: hidden;
-    background-color: rgb(245, 42, 42);
+    background-color: rgb(135, 227, 255);
     /*padding: 20px 10px;*/
   }
   
